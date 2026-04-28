@@ -1,8 +1,10 @@
+# stdlib
+import pathlib
 import re
 from typing import Dict
 
+# 3rd party
 from docutils import nodes
-import pathlib
 
 
 class blogpost_node(nodes.Structural, nodes.Element):
@@ -27,10 +29,10 @@ def asset_role(name, rawtext, text, lineno, inliner, options={}, content=[]):
 
 	ref = re.findall(r"<.*>", text)
 	if ref:
-		ref = ref[0].lstrip("<").rstrip(">")
+		ref = ref[0].lstrip('<').rstrip('>')
 		link_text = re.split(r"<.*>", text)[0]
 	else:
-		if text.startswith("~"):
+		if text.startswith('~'):
 			ref = text[1:]
 			link_text = pathlib.Path(text[1:]).name
 		else:
@@ -77,6 +79,6 @@ def make_link_node(rawtext, app, ref, link_text: str, options: Dict):
 
 
 def setup(app):
-	app.add_role('asset', asset_role)
-	app.add_config_value('assets_base', "/notebook/_static", 'env')
+	app.add_role("asset", asset_role)
+	app.add_config_value("assets_base", "/notebook/_static", "env")
 	return

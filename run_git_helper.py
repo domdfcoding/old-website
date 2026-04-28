@@ -1,5 +1,4 @@
 #  !/usr/bin/env python
-#   -*- coding: utf-8 -*-
 #
 #  __main__.py
 #
@@ -27,9 +26,9 @@ import pathlib
 import sys
 
 # 3rd party
-from git_helper.core import GitHelper
 from git_helper.__main__ import commit_changed_files
-from git_helper.utils import get_git_status, check_git_status
+from git_helper.core import GitHelper
+from git_helper.utils import check_git_status, get_git_status
 
 # this package
 from project_list import project_list, repos_dir
@@ -52,21 +51,23 @@ def git_push(repo_path: pathlib.Path) -> int:
 	return ret
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
 
-	with open("status.rst", "w") as fp:
+	with open("status.rst", 'w') as fp:
 		for repo in project_list:
 
 			repo_path = repos_dir / repo
 
 			status, lines = check_git_status(repo_path)
 			if not status:
-				print("Git working directory is not clean:\n{}".format(
-						"\n".join(lines)), file=sys.stderr)
+				print(
+						"Git working directory is not clean:\n{}".format('\n'.join(lines), ),
+						file=sys.stderr,
+						)
 				print(f"Skipping {repo_path}", file=sys.stderr)
 				continue
 
-			line = '='*len(repo)
+			line = '=' * len(repo)
 			fp.write(f"\n{line}\n{repo}\n{line}\n")
 			print(f"\n{line}\n{repo}\n{line}")
 
