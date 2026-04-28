@@ -10,8 +10,8 @@ readme = "README.rst"
 keywords = []
 dynamic = [ "requires-python", "classifiers", "dependencies",]
 
-[project.license]
-file = "LICENSE"
+# [project.license]
+# file = "LICENSE"
 
 [[project.authors]]
 name = "Dominic Davis-Foster"
@@ -33,7 +33,6 @@ base-classifiers = []
 python-versions = [ "3.6",]
 python-implementations = [ "CPython",]
 platforms = [ "Windows", "macOS", "Linux",]
-license-key = "LGPLv3+"
 
 [tool.importcheck]
 

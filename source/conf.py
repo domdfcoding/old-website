@@ -20,7 +20,6 @@ warnings.filterwarnings('ignore', message='sphinx.util.inspect.Signature\(\) is 
 sys.path.append(os.path.abspath('.'))
 sys.path.append(os.path.abspath('..'))
 
-from __pkginfo__ import __version__
 
 
 
@@ -34,7 +33,6 @@ rst_prolog = f""".. |pkgname| replace:: domdfcoding
 author = "Dominic Davis-Foster"
 project = "domdfcoding"
 slug = re.sub(r'\W+', '-', project.lower())
-release = version = __version__
 copyright = "2020 Dominic Davis-Foster"  # pylint: disable=redefined-builtin
 language = 'en'
 package_root = "/"
@@ -80,7 +78,7 @@ intersphinx_mapping = {
 		"Django": ('https://docs.djangoproject.com/en/dev/', 'https://docs.djangoproject.com/en/dev/_objects/'),
 		"sarge": ('https://sarge.readthedocs.io/en/latest/', None),
 		"attrs": ('https://www.attrs.org/en/stable/', None),
-		'domdf_python_tools': ('https://domdf_python_tools.rtfd.io/en/latest/', None),
+		'domdf_python_tools': ('https://domdf-python-tools.readthedocs.io/en/latest/', None),
 		}
 
 html_theme = 'sphinx_typo3_theme'

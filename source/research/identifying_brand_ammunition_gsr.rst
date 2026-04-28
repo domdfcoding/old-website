@@ -65,8 +65,8 @@ First place in the Forensic Science category.
 
 	* - PNG Image (55 MB)
 	  - :asset:`View <GradEx Poster.png>` :download:`Download <../_assets/GradEx Poster.png>`
-	* - A1 PDF (150 MB)
-	  - :asset:`View <GradEx Poster.pdf>` :download:`Download <../_assets/GradEx Poster.pdf>`
+..	* - A1 PDF (150 MB)
+..	  - :asset:`View <GradEx Poster.pdf>` :download:`Download <../_assets/GradEx Poster.pdf>`
 
 
 Poster presented at the Chartered Society of Forensic Sciences Annual Student Conference 2018.

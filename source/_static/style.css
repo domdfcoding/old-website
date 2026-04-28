@@ -17,3 +17,8 @@ img.logo-image {
         display: none !important;
     }
 }
+
+
+img.logo-image {
+    display: none
+}

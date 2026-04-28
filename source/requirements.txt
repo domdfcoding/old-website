@@ -1,4 +1,4 @@
-git+https://github.com/sphinx-contrib/youtube
+git+https://github.com/sphinx-contrib/youtube@635c8a908e3cac552ce43293c1516e7270cc4ce8
 default-values>=0.6.0
 docutils<0.22
 extras-require>=0.5.0

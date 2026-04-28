@@ -5,7 +5,7 @@ author: "Dominic Davis-Foster"
 email: "dominic@davis-foster.co.uk"
 version: "0.0.1"
 username: "domdfcoding"
-license: 'LGPLv3+'
+license: ''
 short_desc: ''
 docs_dir: "source"
 use_whey: true

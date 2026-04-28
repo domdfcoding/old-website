@@ -39,8 +39,8 @@ It also provides two base classes for creating your own custom dictionaries:
 
 .. start links cawdrey
 
-View the project on `GitHub <https://github.com/domdfcoding/cawdrey>`_.
-Read the `documentation <https://cawdrey.rtfd.io>`_.
+View the project on `GitHub <https://github.com/domdfcoding/cawdrey>`__.
+Read the `documentation <https://cawdrey.readthedocs.io>`__.
 
 .. end links_cawdrey
 
@@ -155,8 +155,8 @@ chemistry_tools
 
 .. start links chemistry_tools
 
-View the project on `GitHub <https://github.com/domdfcoding/chemistry_tools>`_.
-Read the `documentation <https://chemistry_tools.rtfd.io>`_.
+View the project on `GitHub <https://github.com/domdfcoding/chemistry_tools>`__.
+Read the `documentation <https://chemistry-tools.readthedocs.io>`__.
 
 .. end links_chemistry_tools
 
@@ -257,8 +257,8 @@ wx_icons_adwaita
 
 .. start links wx_icons_adwaita
 
-View the project on `GitHub <https://github.com/domdfcoding/custom_wx_icons_adwaita>`_.
-Read the `documentation <https://custom_wx_icons_adwaita.rtfd.io>`_.
+View the project on `GitHub <https://github.com/domdfcoding/custom_wx_icons_adwaita>`__.
+Read the `documentation <https://custom-wx-icons-adwaita.readthedocs.io>`__.
 
 .. end links_wx_icons_adwaita
 
@@ -280,7 +280,7 @@ Read the `documentation <https://custom_wx_icons_adwaita.rtfd.io>`_.
 	  - |license_wx_icons_adwaita| |language_wx_icons_adwaita| |requires_wx_icons_adwaita|
 
 .. |docs_wx_icons_adwaita| image:: https://img.shields.io/readthedocs/custom_wx_icons_adwaita/latest?logo=read-the-docs
-	:target: https://custom_wx_icons_adwaita.readthedocs.io/en/latest/?badge=latest
+	:target: https://custom-wx-icons-adwaita.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
 	
 .. |docs_check_wx_icons_adwaita| image:: https://github.com/domdfcoding/custom_wx_icons_adwaita/workflows/Docs%20Check/badge.svg
@@ -359,8 +359,8 @@ wx_icons_hicolor
 
 .. start links wx_icons_hicolor
 
-View the project on `GitHub <https://github.com/domdfcoding/custom_wx_icons_hicolor>`_.
-Read the `documentation <https://custom_wx_icons_hicolor.rtfd.io>`_.
+View the project on `GitHub <https://github.com/domdfcoding/custom_wx_icons_hicolor>`__.
+Read the `documentation <https://custom-wx-icons-hicolor.readthedocs.io>`__.
 
 .. end links_wx_icons_hicolor
 
@@ -382,7 +382,7 @@ Read the `documentation <https://custom_wx_icons_hicolor.rtfd.io>`_.
 	  - |license_wx_icons_hicolor| |language_wx_icons_hicolor| |requires_wx_icons_hicolor|
 
 .. |docs_wx_icons_hicolor| image:: https://img.shields.io/readthedocs/custom_wx_icons_hicolor/latest?logo=read-the-docs
-	:target: https://custom_wx_icons_hicolor.readthedocs.io/en/latest/?badge=latest
+	:target: https://custom-wx-icons-hicolor.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
 	
 .. |docs_check_wx_icons_hicolor| image:: https://github.com/domdfcoding/custom_wx_icons_hicolor/workflows/Docs%20Check/badge.svg
@@ -461,8 +461,8 @@ wx_icons_humanity
 
 .. start links wx_icons_humanity
 
-View the project on `GitHub <https://github.com/domdfcoding/custom_wx_icons_humanity>`_.
-Read the `documentation <https://custom_wx_icons_humanity.rtfd.io>`_.
+View the project on `GitHub <https://github.com/domdfcoding/custom_wx_icons_humanity>`__.
+Read the `documentation <https://custom-wx-icons-humanity.readthedocs.io>`__.
 
 .. end links_wx_icons_humanity
 
@@ -484,7 +484,7 @@ Read the `documentation <https://custom_wx_icons_humanity.rtfd.io>`_.
 	  - |license_wx_icons_humanity| |language_wx_icons_humanity| |requires_wx_icons_humanity|
 
 .. |docs_wx_icons_humanity| image:: https://img.shields.io/readthedocs/custom_wx_icons_humanity/latest?logo=read-the-docs
-	:target: https://custom_wx_icons_humanity.readthedocs.io/en/latest/?badge=latest
+	:target: https://custom-wx-icons-humanity.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
 	
 .. |docs_check_wx_icons_humanity| image:: https://github.com/domdfcoding/custom_wx_icons_humanity/workflows/Docs%20Check/badge.svg
@@ -563,8 +563,8 @@ wx_icons_suru
 
 .. start links wx_icons_suru
 
-View the project on `GitHub <https://github.com/domdfcoding/custom_wx_icons_suru>`_.
-Read the `documentation <https://custom_wx_icons_suru.rtfd.io>`_.
+View the project on `GitHub <https://github.com/domdfcoding/custom_wx_icons_suru>`__.
+Read the `documentation <https://custom-wx-icons-suru.readthedocs.io>`__.
 
 .. end links_wx_icons_suru
 
@@ -586,7 +586,7 @@ Read the `documentation <https://custom_wx_icons_suru.rtfd.io>`_.
 	  - |license_wx_icons_suru| |language_wx_icons_suru| |requires_wx_icons_suru|
 
 .. |docs_wx_icons_suru| image:: https://img.shields.io/readthedocs/custom_wx_icons_suru/latest?logo=read-the-docs
-	:target: https://custom_wx_icons_suru.readthedocs.io/en/latest/?badge=latest
+	:target: https://custom-wx-icons-suru.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
 	
 .. |docs_check_wx_icons_suru| image:: https://github.com/domdfcoding/custom_wx_icons_suru/workflows/Docs%20Check/badge.svg
@@ -665,8 +665,8 @@ wx_icons_tango
 
 .. start links wx_icons_tango
 
-View the project on `GitHub <https://github.com/domdfcoding/custom_wx_icons_tango>`_.
-Read the `documentation <https://custom_wx_icons_tango.rtfd.io>`_.
+View the project on `GitHub <https://github.com/domdfcoding/custom_wx_icons_tango>`__.
+Read the `documentation <https://custom-wx-icons-tango.readthedocs.io>`__.
 
 .. end links_wx_icons_tango
 
@@ -688,7 +688,7 @@ Read the `documentation <https://custom_wx_icons_tango.rtfd.io>`_.
 	  - |license_wx_icons_tango| |language_wx_icons_tango| |requires_wx_icons_tango|
 
 .. |docs_wx_icons_tango| image:: https://img.shields.io/readthedocs/custom_wx_icons_tango/latest?logo=read-the-docs
-	:target: https://custom_wx_icons_tango.readthedocs.io/en/latest/?badge=latest
+	:target: https://custom-wx-icons-tango.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
 	
 .. |docs_check_wx_icons_tango| image:: https://github.com/domdfcoding/custom_wx_icons_tango/workflows/Docs%20Check/badge.svg
@@ -769,8 +769,8 @@ A core dependency for many of my other projects. Contains several helpful functi
 
 .. start links domdf_python_tools
 
-View the project on `GitHub <https://github.com/domdfcoding/domdf_python_tools>`_.
-Read the `documentation <https://domdf_python_tools.rtfd.io>`_.
+View the project on `GitHub <https://github.com/domdfcoding/domdf_python_tools>`__.
+Read the `documentation <https://domdf-python-tools.readthedocs.io>`__.
 
 .. end links_domdf_python_tools
 
@@ -794,7 +794,7 @@ Read the `documentation <https://domdf_python_tools.rtfd.io>`_.
 	  - |license_domdf_python_tools| |language_domdf_python_tools| |requires_domdf_python_tools|
 
 .. |docs_domdf_python_tools| image:: https://img.shields.io/readthedocs/domdf_python_tools/latest?logo=read-the-docs
-	:target: https://domdf_python_tools.readthedocs.io/en/latest/?badge=latest
+	:target: https://domdf-python-tools.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
 	
 .. |docs_check_domdf_python_tools| image:: https://github.com/domdfcoding/domdf_python_tools/workflows/Docs%20Check/badge.svg
@@ -885,8 +885,8 @@ domdf_spreadsheet_tools
 
 .. start links domdf_spreadsheet_tools
 
-View the project on `GitHub <https://github.com/domdfcoding/domdf_spreadsheet_tools>`_.
-Read the `documentation <https://domdf_spreadsheet_tools.rtfd.io>`_.
+View the project on `GitHub <https://github.com/domdfcoding/domdf_spreadsheet_tools>`__.
+Read the `documentation <https://domdf_spreadsheet_tools.readthedocs.io>`__.
 
 .. end links_domdf_spreadsheet_tools
 
@@ -997,8 +997,8 @@ domdf_wxpython_tools
 
 .. start links domdf_wxpython_tools
 
-View the project on `GitHub <https://github.com/domdfcoding/domdf_wxpython_tools>`_.
-Read the `documentation <https://domdf_wxpython_tools.rtfd.io>`_.
+View the project on `GitHub <https://github.com/domdfcoding/domdf_wxpython_tools>`__.
+Read the `documentation <https://domdf_wxpython_tools.readthedocs.io>`__.
 
 .. end links_domdf_wxpython_tools
 
@@ -1083,8 +1083,8 @@ Do NOT install this module if you already have wxPython installed, as it uses th
 
 .. start links wx
 
-View the project on `GitHub <https://github.com/domdfcoding/dummy_wx>`_.
-Read the `documentation <https://dummy_wx.rtfd.io>`_.
+View the project on `GitHub <https://github.com/domdfcoding/dummy_wx>`__.
+Read the `documentation <https://dummy-wx.readthedocs.io>`__.
 
 .. end links_wx
 
@@ -1183,8 +1183,8 @@ THis module is used in the documentation of several of my projects, including :r
 
 .. start links sphinxcontrib.extras_require
 
-View the project on `GitHub <https://github.com/domdfcoding/extras_require>`_.
-Read the `documentation <https://extras_require.rtfd.io>`_.
+View the project on `GitHub <https://github.com/domdfcoding/extras_require>`__.
+Read the `documentation <https://extras-require.readthedocs.io>`__.
 
 .. end links_sphinxcontrib.extras_require
 
@@ -1206,7 +1206,7 @@ Read the `documentation <https://extras_require.rtfd.io>`_.
 	  - |license_sphinxcontrib.extras_require| |language_sphinxcontrib.extras_require| |requires_sphinxcontrib.extras_require|
 
 .. |docs_sphinxcontrib.extras_require| image:: https://img.shields.io/readthedocs/extras_require/latest?logo=read-the-docs
-	:target: https://extras_require.readthedocs.io/en/latest/?badge=latest
+	:target: https://extras-require.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
 	
 .. |docs_check_sphinxcontrib.extras_require| image:: https://github.com/domdfcoding/extras_require/workflows/Docs%20Check/badge.svg
@@ -1285,8 +1285,8 @@ mathematical
 
 .. start links mathematical
 
-View the project on `GitHub <https://github.com/domdfcoding/mathematical>`_.
-Read the `documentation <https://mathematical.rtfd.io>`_.
+View the project on `GitHub <https://github.com/domdfcoding/mathematical>`__.
+Read the `documentation <https://mathematical.readthedocs.io>`__.
 
 .. end links_mathematical
 
@@ -1401,8 +1401,8 @@ msp2lib
 
 .. start links msp2lib
 
-View the project on `GitHub <https://github.com/domdfcoding/msp2lib>`_.
-Read the `documentation <https://msp2lib.rtfd.io>`_.
+View the project on `GitHub <https://github.com/domdfcoding/msp2lib>`__.
+Read the `documentation <https://msp2lib.readthedocs.io>`__.
 
 .. end links_msp2lib
 
@@ -1509,8 +1509,8 @@ notebook2script
 
 .. start links notebook2script
 
-View the project on `GitHub <https://github.com/domdfcoding/notebook2script>`_.
-Read the `documentation <https://notebook2script.rtfd.io>`_.
+View the project on `GitHub <https://github.com/domdfcoding/notebook2script>`__.
+Read the `documentation <https://notebook2script.readthedocs.io>`__.
 
 .. end links_notebook2script
 
@@ -1615,8 +1615,8 @@ PySetWacom
 
 .. start links PySetWacom
 
-View the project on `GitHub <https://github.com/domdfcoding/PySetWacom>`_.
-Read the `documentation <https://pysetwacom.rtfd.io>`_.
+View the project on `GitHub <https://github.com/domdfcoding/PySetWacom>`__.
+Read the `documentation <https://pysetwacom.readthedocs.io>`__.
 
 .. end links_PySetWacom
 
@@ -1717,8 +1717,8 @@ That is possible with `pre-commit`_, but if you don't use `pre-commit`_ there di
 
 .. start links pyupgrade_directories
 
-View the project on `GitHub <https://github.com/domdfcoding/pyupgrade-directories>`_.
-Read the `documentation <https://pyupgrade-directories.rtfd.io>`_.
+View the project on `GitHub <https://github.com/domdfcoding/pyupgrade-directories>`__.
+Read the `documentation <https://pyupgrade-directories.readthedocs.io>`__.
 
 .. end links_pyupgrade_directories
 
@@ -1819,8 +1819,8 @@ sdjson
 
 .. start links sdjson
 
-View the project on `GitHub <https://github.com/domdfcoding/singledispatch-json>`_.
-Read the `documentation <https://singledispatch-json.rtfd.io>`_.
+View the project on `GitHub <https://github.com/domdfcoding/singledispatch-json>`__.
+Read the `documentation <https://singledispatch-json.readthedocs.io>`__.
 
 .. end links_sdjson
 
@@ -1935,8 +1935,8 @@ webcolors-stubs
 
 .. start links webcolors
 
-View the project on `GitHub <https://github.com/domdfcoding/webcolors-stubs>`_.
-Read the `documentation <https://webcolors-stubs.rtfd.io>`_.
+View the project on `GitHub <https://github.com/domdfcoding/webcolors-stubs>`__.
+Read the `documentation <https://webcolors-stubs.readthedocs.io>`__.
 
 .. end links_webcolors
 
@@ -2033,8 +2033,8 @@ whiptail
 
 .. start links whiptail
 
-View the project on `GitHub <https://github.com/domdfcoding/whiptail>`_.
-Read the `documentation <https://whiptail.rtfd.io>`_.
+View the project on `GitHub <https://github.com/domdfcoding/whiptail>`__.
+Read the `documentation <https://whiptail.readthedocs.io>`__.
 
 .. end links_whiptail
 
@@ -2135,8 +2135,8 @@ wxIconSaver
 
 .. start links wxIconSaver
 
-View the project on `GitHub <https://github.com/domdfcoding/wxIconSaver>`_.
-Read the `documentation <https://wxiconsaver.rtfd.io>`_.
+View the project on `GitHub <https://github.com/domdfcoding/wxIconSaver>`__.
+Read the `documentation <https://wxiconsaver.readthedocs.io>`__.
 
 .. end links_wxIconSaver
 
@@ -2239,8 +2239,8 @@ Originally created by `Jakob Stemberger <https://github.com/yaccob>`_, this fork
 
 .. start links ytools
 
-View the project on `GitHub <https://github.com/domdfcoding/ytools3>`_.
-Read the `documentation <https://ytools3.rtfd.io>`_.
+View the project on `GitHub <https://github.com/domdfcoding/ytools3>`__.
+Read the `documentation <https://ytools3.readthedocs.io>`__.
 
 .. end links_ytools
 
@@ -2345,8 +2345,8 @@ flake8_strftime
 
 .. start links flake8_strftime
 
-View the project on `GitHub <https://github.com/domdfcoding/flake8_strftime>`_.
-Read the `documentation <https://flake8_strftime.rtfd.io>`_.
+View the project on `GitHub <https://github.com/domdfcoding/flake8_strftime>`__.
+Read the `documentation <https://flake8-strftime.readthedocs.io>`__.
 
 .. end links_flake8_strftime
 
@@ -2461,8 +2461,8 @@ pyms-nist-search
 
 .. start links pyms_nist_search
 
-View the project on `GitHub <https://github.com/domdfcoding/pynist>`_.
-Read the `documentation <https://pynist.rtfd.io>`_.
+View the project on `GitHub <https://github.com/domdfcoding/pynist>`__.
+Read the `documentation <https://pynist.readthedocs.io>`__.
 
 .. end links_pyms_nist_search
 
@@ -2563,8 +2563,8 @@ py2latex
 
 .. start links py2latex
 
-View the project on `GitHub <https://github.com/domdfcoding/py2latex>`_.
-Read the `documentation <https://py2latex.rtfd.io>`_.
+View the project on `GitHub <https://github.com/domdfcoding/py2latex>`__.
+Read the `documentation <https://py2latex.readthedocs.io>`__.
 
 .. end links_py2latex
 

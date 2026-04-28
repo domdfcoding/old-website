@@ -1,24 +1,25 @@
 # stdlib
-from git_helper import readme
-import git_helper.readme
+from repo_helper import readme
+import repo_helper.readme
 import pathlib
 import re
 
 # 3rd party
-import git_helper.readme
-from git_helper.core import GitHelper
+import repo_helper.readme
+from repo_helper.core import GitHelper
 from jinja2 import BaseLoader, Environment
 
 from project_list import project_list
 
-repos_dir = pathlib.Path("/media/VIDEO/Syncthing/Python/01 GitHub Repos").absolute()
-projects_file = pathlib.Path("/media/VIDEO/Syncthing/Python/00 Projects/domdfcoding.github.io/source/projects.rst")
+# TODO: get from github
+repos_dir = pathlib.Path("~/Python/01 GitHub Repos").absolute()
+projects_file = pathlib.Path("./source/projects.rst")
 
 links_block_template = Environment(loader=BaseLoader).from_string("""\
 .. start links {{ unique_name.lstrip("_") }}
 
-View the project on `GitHub <https://github.com/{{ username }}/{{ repo_name }}>`_.
-Read the `documentation <https://{{ repo_name.lower() }}.rtfd.io>`_.
+View the project on `GitHub <https://github.com/{{ username }}/{{ repo_name }}>`__.
+Read the `documentation <https://{{ repo_name.lower() }}.rtfd.io>`__.
 
 .. end links
 """)
@@ -51,7 +52,7 @@ def populate_projects(templates):
 	"""
 
 
-	shields_block = git_helper.readme.create_shields_block(
+	shields_block = repo_helper.readme.create_shields_block(
 			username="domdfcoding",
 			repo_name=templates.globals["repo_name"],
 			version=templates.globals["version"],
