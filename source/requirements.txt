@@ -22,5 +22,5 @@ sphinxcontrib-httpdomain>=1.7.0
 sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.5
-sphinxemoji>=0.1.6
+sphinxemoji>=0.3.2
 toctree-plus>=0.6.1
