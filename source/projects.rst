@@ -66,7 +66,7 @@ Read the `documentation <https://cawdrey.readthedocs.io>`__.
 .. |docs_cawdrey| image:: https://img.shields.io/readthedocs/cawdrey/latest?logo=read-the-docs
 	:target: https://cawdrey.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
-	
+
 .. |docs_check_cawdrey| image:: https://github.com/domdfcoding/cawdrey/workflows/Docs%20Check/badge.svg
 	:target: https://github.com/domdfcoding/cawdrey/actions?query=workflow%3A%22Docs+Check%22
 	:alt: Docs Check Status
@@ -175,7 +175,7 @@ Read the `documentation <https://chemistry-tools.readthedocs.io>`__.
 	* - Anaconda
 	  - |conda-version_chemistry_tools| |conda-platform_chemistry_tools|
 	* - Other
-	  - |license_chemistry_tools| |language_chemistry_tools| |commits-since_chemistry_tools| |commits-latest_chemistry_tools| |maintained_chemistry_tools| 
+	  - |license_chemistry_tools| |language_chemistry_tools| |commits-since_chemistry_tools| |commits-latest_chemistry_tools| |maintained_chemistry_tools|
 
 .. |docs_chemistry_tools| image:: https://img.shields.io/readthedocs/chemistry_tools/latest?logo=read-the-docs
 	:target: https://chemistry_tools.readthedocs.io/en/latest/?badge=latest
@@ -282,7 +282,7 @@ Read the `documentation <https://custom-wx-icons-adwaita.readthedocs.io>`__.
 .. |docs_wx_icons_adwaita| image:: https://img.shields.io/readthedocs/custom_wx_icons_adwaita/latest?logo=read-the-docs
 	:target: https://custom-wx-icons-adwaita.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
-	
+
 .. |docs_check_wx_icons_adwaita| image:: https://github.com/domdfcoding/custom_wx_icons_adwaita/workflows/Docs%20Check/badge.svg
 	:target: https://github.com/domdfcoding/custom_wx_icons_adwaita/actions?query=workflow%3A%22Docs+Check%22
 	:alt: Docs Check Status
@@ -384,7 +384,7 @@ Read the `documentation <https://custom-wx-icons-hicolor.readthedocs.io>`__.
 .. |docs_wx_icons_hicolor| image:: https://img.shields.io/readthedocs/custom_wx_icons_hicolor/latest?logo=read-the-docs
 	:target: https://custom-wx-icons-hicolor.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
-	
+
 .. |docs_check_wx_icons_hicolor| image:: https://github.com/domdfcoding/custom_wx_icons_hicolor/workflows/Docs%20Check/badge.svg
 	:target: https://github.com/domdfcoding/custom_wx_icons_hicolor/actions?query=workflow%3A%22Docs+Check%22
 	:alt: Docs Check Status
@@ -486,7 +486,7 @@ Read the `documentation <https://custom-wx-icons-humanity.readthedocs.io>`__.
 .. |docs_wx_icons_humanity| image:: https://img.shields.io/readthedocs/custom_wx_icons_humanity/latest?logo=read-the-docs
 	:target: https://custom-wx-icons-humanity.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
-	
+
 .. |docs_check_wx_icons_humanity| image:: https://github.com/domdfcoding/custom_wx_icons_humanity/workflows/Docs%20Check/badge.svg
 	:target: https://github.com/domdfcoding/custom_wx_icons_humanity/actions?query=workflow%3A%22Docs+Check%22
 	:alt: Docs Check Status
@@ -588,7 +588,7 @@ Read the `documentation <https://custom-wx-icons-suru.readthedocs.io>`__.
 .. |docs_wx_icons_suru| image:: https://img.shields.io/readthedocs/custom_wx_icons_suru/latest?logo=read-the-docs
 	:target: https://custom-wx-icons-suru.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
-	
+
 .. |docs_check_wx_icons_suru| image:: https://github.com/domdfcoding/custom_wx_icons_suru/workflows/Docs%20Check/badge.svg
 	:target: https://github.com/domdfcoding/custom_wx_icons_suru/actions?query=workflow%3A%22Docs+Check%22
 	:alt: Docs Check Status
@@ -690,7 +690,7 @@ Read the `documentation <https://custom-wx-icons-tango.readthedocs.io>`__.
 .. |docs_wx_icons_tango| image:: https://img.shields.io/readthedocs/custom_wx_icons_tango/latest?logo=read-the-docs
 	:target: https://custom-wx-icons-tango.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
-	
+
 .. |docs_check_wx_icons_tango| image:: https://github.com/domdfcoding/custom_wx_icons_tango/workflows/Docs%20Check/badge.svg
 	:target: https://github.com/domdfcoding/custom_wx_icons_tango/actions?query=workflow%3A%22Docs+Check%22
 	:alt: Docs Check Status
@@ -796,7 +796,7 @@ Read the `documentation <https://domdf-python-tools.readthedocs.io>`__.
 .. |docs_domdf_python_tools| image:: https://img.shields.io/readthedocs/domdf_python_tools/latest?logo=read-the-docs
 	:target: https://domdf-python-tools.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
-	
+
 .. |docs_check_domdf_python_tools| image:: https://github.com/domdfcoding/domdf_python_tools/workflows/Docs%20Check/badge.svg
 	:target: https://github.com/domdfcoding/domdf_python_tools/actions?query=workflow%3A%22Docs+Check%22
 	:alt: Docs Check Status
@@ -912,7 +912,7 @@ Read the `documentation <https://domdf_spreadsheet_tools.readthedocs.io>`__.
 .. |docs_domdf_spreadsheet_tools| image:: https://img.shields.io/readthedocs/domdf_spreadsheet_tools/latest?logo=read-the-docs
 	:target: https://domdf_spreadsheet_tools.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
-	
+
 .. |docs_check_domdf_spreadsheet_tools| image:: https://github.com/domdfcoding/domdf_spreadsheet_tools/workflows/Docs%20Check/badge.svg
 	:target: https://github.com/domdfcoding/domdf_spreadsheet_tools/actions?query=workflow%3A%22Docs+Check%22
 	:alt: Docs Check Status
@@ -1015,7 +1015,7 @@ Read the `documentation <https://domdf_wxpython_tools.readthedocs.io>`__.
 	* - PyPI
 	  - |pypi-version_domdf_wxpython_tools| |supported-versions_domdf_wxpython_tools| |supported-implementations_domdf_wxpython_tools| |wheel_domdf_wxpython_tools|
 	* - Other
-	  - |license_domdf_wxpython_tools| |language_domdf_wxpython_tools| |commits-since_domdf_wxpython_tools| |commits-latest_domdf_wxpython_tools| |maintained_domdf_wxpython_tools| 
+	  - |license_domdf_wxpython_tools| |language_domdf_wxpython_tools| |commits-since_domdf_wxpython_tools| |commits-latest_domdf_wxpython_tools| |maintained_domdf_wxpython_tools|
 
 .. |docs_domdf_wxpython_tools| image:: https://img.shields.io/readthedocs/domdf_wxpython_tools/latest?logo=read-the-docs
 	:target: https://domdf_wxpython_tools.readthedocs.io/en/latest/?badge=latest
@@ -1208,7 +1208,7 @@ Read the `documentation <https://extras-require.readthedocs.io>`__.
 .. |docs_sphinxcontrib.extras_require| image:: https://img.shields.io/readthedocs/extras_require/latest?logo=read-the-docs
 	:target: https://extras-require.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
-	
+
 .. |docs_check_sphinxcontrib.extras_require| image:: https://github.com/domdfcoding/extras_require/workflows/Docs%20Check/badge.svg
 	:target: https://github.com/domdfcoding/extras_require/actions?query=workflow%3A%22Docs+Check%22
 	:alt: Docs Check Status
@@ -1312,7 +1312,7 @@ Read the `documentation <https://mathematical.readthedocs.io>`__.
 .. |docs_mathematical| image:: https://img.shields.io/readthedocs/mathematical/latest?logo=read-the-docs
 	:target: https://mathematical.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
-	
+
 .. |docs_check_mathematical| image:: https://github.com/domdfcoding/mathematical/workflows/Docs%20Check/badge.svg
 	:target: https://github.com/domdfcoding/mathematical/actions?query=workflow%3A%22Docs+Check%22
 	:alt: Docs Check Status
@@ -1428,7 +1428,7 @@ Read the `documentation <https://msp2lib.readthedocs.io>`__.
 .. |docs_msp2lib| image:: https://img.shields.io/readthedocs/msp2lib/latest?logo=read-the-docs
 	:target: https://msp2lib.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
-	
+
 .. |docs_check_msp2lib| image:: https://github.com/domdfcoding/msp2lib/workflows/Docs%20Check/badge.svg
 	:target: https://github.com/domdfcoding/msp2lib/actions?query=workflow%3A%22Docs+Check%22
 	:alt: Docs Check Status
@@ -1534,7 +1534,7 @@ Read the `documentation <https://notebook2script.readthedocs.io>`__.
 .. |docs_notebook2script| image:: https://img.shields.io/readthedocs/notebook2script/latest?logo=read-the-docs
 	:target: https://notebook2script.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
-	
+
 .. |docs_check_notebook2script| image:: https://github.com/domdfcoding/notebook2script/workflows/Docs%20Check/badge.svg
 	:target: https://github.com/domdfcoding/notebook2script/actions?query=workflow%3A%22Docs+Check%22
 	:alt: Docs Check Status
@@ -1640,7 +1640,7 @@ Read the `documentation <https://pysetwacom.readthedocs.io>`__.
 .. |docs_PySetWacom| image:: https://img.shields.io/readthedocs/pysetwacom/latest?logo=read-the-docs
 	:target: https://pysetwacom.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
-	
+
 .. |docs_check_PySetWacom| image:: https://github.com/domdfcoding/PySetWacom/workflows/Docs%20Check/badge.svg
 	:target: https://github.com/domdfcoding/PySetWacom/actions?query=workflow%3A%22Docs+Check%22
 	:alt: Docs Check Status
@@ -1742,7 +1742,7 @@ Read the `documentation <https://pyupgrade-directories.readthedocs.io>`__.
 .. |docs_pyupgrade_directories| image:: https://img.shields.io/readthedocs/pyupgrade-directories/latest?logo=read-the-docs
 	:target: https://pyupgrade-directories.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
-	
+
 .. |docs_check_pyupgrade_directories| image:: https://github.com/domdfcoding/pyupgrade-directories/workflows/Docs%20Check/badge.svg
 	:target: https://github.com/domdfcoding/pyupgrade-directories/actions?query=workflow%3A%22Docs+Check%22
 	:alt: Docs Check Status
@@ -1846,7 +1846,7 @@ Read the `documentation <https://singledispatch-json.readthedocs.io>`__.
 .. |docs_sdjson| image:: https://img.shields.io/readthedocs/singledispatch-json/latest?logo=read-the-docs
 	:target: https://singledispatch-json.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
-	
+
 .. |docs_check_sdjson| image:: https://github.com/domdfcoding/singledispatch-json/workflows/Docs%20Check/badge.svg
 	:target: https://github.com/domdfcoding/singledispatch-json/actions?query=workflow%3A%22Docs+Check%22
 	:alt: Docs Check Status
@@ -2058,7 +2058,7 @@ Read the `documentation <https://whiptail.readthedocs.io>`__.
 .. |docs_whiptail| image:: https://img.shields.io/readthedocs/whiptail/latest?logo=read-the-docs
 	:target: https://whiptail.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
-	
+
 .. |docs_check_whiptail| image:: https://github.com/domdfcoding/whiptail/workflows/Docs%20Check/badge.svg
 	:target: https://github.com/domdfcoding/whiptail/actions?query=workflow%3A%22Docs+Check%22
 	:alt: Docs Check Status
@@ -2160,7 +2160,7 @@ Read the `documentation <https://wxiconsaver.readthedocs.io>`__.
 .. |docs_wxIconSaver| image:: https://img.shields.io/readthedocs/wxiconsaver/latest?logo=read-the-docs
 	:target: https://wxiconsaver.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
-	
+
 .. |docs_check_wxIconSaver| image:: https://github.com/domdfcoding/wxIconSaver/workflows/Docs%20Check/badge.svg
 	:target: https://github.com/domdfcoding/wxIconSaver/actions?query=workflow%3A%22Docs+Check%22
 	:alt: Docs Check Status
@@ -2264,7 +2264,7 @@ Read the `documentation <https://ytools3.readthedocs.io>`__.
 .. |docs_ytools| image:: https://img.shields.io/readthedocs/ytools3/latest?logo=read-the-docs
 	:target: https://ytools3.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
-	
+
 .. |docs_check_ytools| image:: https://github.com/domdfcoding/ytools3/workflows/Docs%20Check/badge.svg
 	:target: https://github.com/domdfcoding/ytools3/actions?query=workflow%3A%22Docs+Check%22
 	:alt: Docs Check Status
@@ -2372,7 +2372,7 @@ Read the `documentation <https://flake8-strftime.readthedocs.io>`__.
 .. |docs_flake8_strftime| image:: https://img.shields.io/readthedocs/flake8_strftime/latest?logo=read-the-docs
 	:target: https://flake8_strftime.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
-	
+
 .. |docs_check_flake8_strftime| image:: https://github.com/domdfcoding/flake8_strftime/workflows/Docs%20Check/badge.svg
 	:target: https://github.com/domdfcoding/flake8_strftime/actions?query=workflow%3A%22Docs+Check%22
 	:alt: Docs Check Status
@@ -2486,7 +2486,7 @@ Read the `documentation <https://pynist.readthedocs.io>`__.
 .. |docs_pyms_nist_search| image:: https://img.shields.io/readthedocs/pynist/latest?logo=read-the-docs
 	:target: https://pynist.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
-	
+
 .. |docs_check_pyms_nist_search| image:: https://github.com/domdfcoding/pynist/workflows/Docs%20Check/badge.svg
 	:target: https://github.com/domdfcoding/pynist/actions?query=workflow%3A%22Docs+Check%22
 	:alt: Docs Check Status
@@ -2588,7 +2588,7 @@ Read the `documentation <https://py2latex.readthedocs.io>`__.
 .. |docs_py2latex| image:: https://img.shields.io/readthedocs/py2latex/latest?logo=read-the-docs
 	:target: https://py2latex.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
-	
+
 .. |docs_check_py2latex| image:: https://github.com/domdfcoding/py2latex/workflows/Docs%20Check/badge.svg
 	:target: https://github.com/domdfcoding/py2latex/actions?query=workflow%3A%22Docs+Check%22
 	:alt: Docs Check Status
@@ -2648,4 +2648,3 @@ Read the `documentation <https://py2latex.readthedocs.io>`__.
 	:alt: Maintenance
 
 .. end shields py2latex
-
