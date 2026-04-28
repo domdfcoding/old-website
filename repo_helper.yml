@@ -1,5 +1,5 @@
 modname: "domdfcoding"
-import_name: "."
+#import_name: "."
 copyright_years: "2020"
 author: "Dominic Davis-Foster"
 email: "dominic@davis-foster.co.uk"
@@ -8,6 +8,7 @@ username: "domdfcoding"
 license: 'LGPLv3+'
 short_desc: ''
 docs_dir: "source"
+use_whey: true
 
 preserve_custom_theme: True
 
@@ -21,18 +22,19 @@ exclude_files:
   - stale_bot
   - auto_assign
   - conf
-  - travis
-#  - doc_requirements
   - test_requirements
   - bumpversion
   - issue_templates
   - tox
-  - actions
   - docs_action
   - Source_rst
   - Building_rst
   - rtfd
   - contributing
+  - actions
+  - license_rst
+  - mypy_action
+  - flake8_action
 
 intersphinx_mapping:
   - "'domdf_python_tools': ('https://domdf_python_tools.rtfd.io/en/latest/', None)"

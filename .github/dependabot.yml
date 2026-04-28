@@ -1,12 +1,11 @@
+# This file is managed by 'repo_helper'. Don't edit it directly.
+---
 version: 2
 updates:
 - package-ecosystem: pip
-  directory: "/"
+  directory: /
   schedule:
     interval: weekly
-    day: tuesday
-    time: "07:00"
-    timezone: Universal
-  open-pull-requests-limit: 10
+  open-pull-requests-limit: 0
   reviewers:
   - domdfcoding
