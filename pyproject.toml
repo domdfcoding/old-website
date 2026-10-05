@@ -10,9 +10,6 @@ readme = "README.rst"
 keywords = []
 dynamic = [ "requires-python", "classifiers", "dependencies",]
 
-# [project.license]
-# file = "LICENSE"
-
 [[project.authors]]
 name = "Dominic Davis-Foster"
 email = "dominic@davis-foster.co.uk"
